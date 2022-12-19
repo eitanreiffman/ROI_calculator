@@ -1,6 +1,3 @@
-# Four Square Method to calculate Cash on Cash Return on Investment
-# We can treat each square like its own class, with its own traits
-
 class Calculator:
 
     def calculate_income(self):
